@@ -1,0 +1,16 @@
+.imagem {
+    margin: 0px;
+    display:block;   
+    height:10;
+    width:10;
+}
+
+.texto1{
+    margin: 0px;
+    text-align: left;
+
+}
+
+.texto2 {
+    text-align:left
+}
